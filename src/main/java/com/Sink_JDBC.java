@@ -12,11 +12,11 @@ import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 
 /**
+ * 操作mysql
  * @Name Sink_JDBC
  * @Author shenYue
  * @Data 2022/1/26 16:03
